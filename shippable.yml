@@ -18,7 +18,7 @@ build:
     
   ci:
     - php --version
-integrations:
-  key:
-    - integrationName: pemkey
-      type: pem-key
+#integrations:
+#  key:
+#    - integrationName: pemkey
+#      type: pem-key
